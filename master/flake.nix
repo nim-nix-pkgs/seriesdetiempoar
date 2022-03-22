@@ -9,7 +9,7 @@
   
   inputs.src-seriesdetiempoar-master.flake = false;
   inputs.src-seriesdetiempoar-master.owner = "juancarlospaco";
-  inputs.src-seriesdetiempoar-master.ref   = "refs/heads/master";
+  inputs.src-seriesdetiempoar-master.ref   = "master";
   inputs.src-seriesdetiempoar-master.repo  = "nim-seriesdetiempoar";
   inputs.src-seriesdetiempoar-master.type  = "github";
   
