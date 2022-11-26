@@ -219,11 +219,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668776112,
-        "narHash": "sha256-kRwPNg39JfAQJbkX5SxAxNwVRZ/t0uNXanKHSyoeKOE=",
+        "lastModified": 1669431364,
+        "narHash": "sha256-Dh2moqb0uY5Qwa5RjXHseiCmNk8z5Kdr4mdMdLByIrQ=",
         "owner": "nim-nix-pkgs",
         "repo": "seriesdetiempoar",
-        "rev": "0b1aea4bc813f9f520fcb319a3b86276565b6003",
+        "rev": "8e37cb397df32286af621a0cff020e290bbadf63",
         "type": "github"
       },
       "original": {
